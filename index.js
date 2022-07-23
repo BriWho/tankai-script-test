@@ -8,7 +8,7 @@ function move(flag){
 
     //more more more
 
-    return [1, 0];
+    return [1, 1];
 }
 
 
