@@ -8,7 +8,7 @@ function move(flag){
 
     //more more more
 
-    return [1, flag.radDirection];
+    return [1, 0];
 }
 
 
